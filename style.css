@@ -44,6 +44,8 @@ main img{
 }
 
 table{
+    text-align: left;
+    border-spacing: 0;
     width: 100%;
 }
 
@@ -87,4 +89,8 @@ table{
     color: #fff;
     padding: 10px;
     
+}
+
+.lista-puntata{
+    padding: 15px;
 }
