@@ -13,7 +13,6 @@ header{
     bottom: 0;
     left: 0;
     margin: .5%;
-
 }
 
 main{
@@ -43,7 +42,12 @@ main img{
     font-weight: bold;
 }
 
+#lista-puntata{
+    padding-left: 15px;
+}
+
 table{
+    font-weight: normal;
     text-align: left;
     border-spacing: 0;
     width: 100%;
@@ -57,6 +61,17 @@ table{
 .background-sky-blue{
     background-color: skyblue;
 }
+
+.twentyfive-xcent{
+    width: 25%;
+}
+.fifty-xcent{
+    width: 50%;
+}
+
+
+
+
 
 .text-evidence{
     background-color: yellow;
@@ -91,6 +106,3 @@ table{
     
 }
 
-.lista-puntata{
-    padding: 15px;
-}
